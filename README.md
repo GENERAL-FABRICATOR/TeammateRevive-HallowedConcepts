@@ -3,7 +3,7 @@
 
 Survivors can revive their fallen colleagues, but it comes at the price of their own health. A skull totem marks where the player died. Stand within the circle to begin, but stay at your own risk ;) <br> <br> All players need this mod
 
-THIS IS A FORKED VERSION OF THE ORIGINAL MOD, Originally made by the kindly KosmosisDire, and then helpfully recompiled by Moffein for Survivors of the Storm, and now by me for Hallowed Concepts, which introduced some changes in the revive methods at hand, so I fixed these since I find this to be a crucial mod for a party run of RoR2. Please enjoy and feel free to report any bugs/issues following the feedback block below.
+THIS IS A FORKED VERSION OF THE ORIGINAL MOD, Originally made by the kindly KosmosisDire, and then helpfully recompiled by Moffein for Seekers of the Storm, and now by me for Hallowed Concepts, which introduced some changes in the revive methods at hand, so I fixed these since I find this to be a crucial mod for a party run of RoR2. Please enjoy and feel free to report any bugs/issues following the feedback block below.
 <br>
 
 ### Integration:
@@ -60,12 +60,23 @@ Every time you enter a new stage, **1 Curse** will be removed. The number remove
 
 <br>
 
-### 4.1.5 - Latest Update
+### 4.3.0
 
-* Fixed revive helper compatibility with DLC3 changes introduced in Hallowed Concepts
+* Fixed revive getting stuck at 99.9% on the latest game update (Hallowed Concepts / DLC3).
+* Removed the call to Inventory.RemoveItem(ItemDef, int) from the fallback respawn function, because the game no longer has it.
+* Fixed revive helper compatibility with DLC3 changes.
+* Tested in multiplayer.
 
+### 4.2.1
 
-### 4.1.4 - Latest Update
+* Recompiled for latest update, completely untested.
+
+### 4.2.0
+
+* Recompiled for SotS, completely untested.
+* Added config option: Require Hitboxes Active to Revive (Default: False)
+
+### 4.1.4
 
 * Made mod strings localizable
 * Fixed bug with using "find" console command
