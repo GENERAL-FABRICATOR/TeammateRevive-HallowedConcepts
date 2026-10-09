@@ -62,6 +62,11 @@ Every time you enter a new stage, **1 Curse** will be removed. The number remove
 
 ### 4.1.4 - Latest Update
 
+* Fixed revive helper compatibility with DLC3 changes introduced in Hallowed Concepts
+
+
+### 4.1.4 - Latest Update
+
 * Made mod strings localizable
 * Fixed bug with using "find" console command
 * Added separate chance for reviver to get Death Curse
