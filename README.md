@@ -60,7 +60,7 @@ Every time you enter a new stage, **1 Curse** will be removed. The number remove
 
 <br>
 
-### 4.1.4 - Latest Update
+### 4.1.5 - Latest Update
 
 * Fixed revive helper compatibility with DLC3 changes introduced in Hallowed Concepts
 
