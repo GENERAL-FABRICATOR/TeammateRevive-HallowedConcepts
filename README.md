@@ -14,7 +14,7 @@ THIS IS A FORKED VERSION OF THE ORIGINAL MOD, Originally made by the kindly Kosm
 <br>
 
 ### Feedback:
-Feedback would be greatly appreciated. If you encounter **any** bugs or want to discuss new or existing features, **please** submit an issue on [Github](https://github.com/GENERAL-FABRICATOR/TeammateRevive-HallowedConcepts), or contact **kosha_1** on Discord!
+Feedback would be greatly appreciated. If you encounter **any** bugs or want to discuss new or existing features, **please** submit an issue on [Github](https://github.com/GENERAL-FABRICATOR/TeammateRevive-HallowedConcepts), or contact KosmosisDire#4195 or amadare#8308 or **kosha_1** (me) on Discord!
 
 <br> <br>
 
