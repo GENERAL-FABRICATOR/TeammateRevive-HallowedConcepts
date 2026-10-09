@@ -3,6 +3,7 @@
 
 Survivors can revive their fallen colleagues, but it comes at the price of their own health. A skull totem marks where the player died. Stand within the circle to begin, but stay at your own risk ;) <br> <br> All players need this mod
 
+THIS IS A FORKED VERSION OF THE ORIGINAL MOD, Originally made by the kindly KosmosisDire, and then helpfully recompiled by Moffein for Survivors of the Storm, and now by me for Hallowed Concepts, which introduced some changes in the revive methods at hand, so I fixed these since I find this to be a crucial mod for a party run of RoR2. Please enjoy and feel free to report any bugs/issues following the feedback block below.
 <br>
 
 ### Integration:
@@ -13,8 +14,7 @@ Survivors can revive their fallen colleagues, but it comes at the price of their
 <br>
 
 ### Feedback:
-
-Feedback would be greatly appreciated. If you encounter **any** bugs or want to discuss new or existing features, **please** submit an issue on [Github](https://github.com/KosmosisDire/TeammateRevive), or contact **KosmosisDire#4195** or **amadare#8308** on Discord!
+Feedback would be greatly appreciated. If you encounter **any** bugs or want to discuss new or existing features, **please** submit an issue on [Github](https://github.com/GENERAL-FABRICATOR/TeammateRevive-HallowedConcepts), or contact **kosha_1** on Discord!
 
 <br> <br>
 
