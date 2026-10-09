@@ -69,6 +69,7 @@ public static class ReviveHelper
     private static void FallbackRespawnFunction(CharacterMaster master)
     {
         master.RespawnExtraLife();
-        master.inventory.RemoveItem(RoR2Content.Items.ExtraLifeConsumed);
+        // Inventory.RemoveItem(ItemDef, int) no longer exists in current game builds (DLC3),
+        // and RespawnExtraLife no longer grants ExtraLifeConsumed, so nothing needs to be removed.
     }
 }
